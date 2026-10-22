@@ -1,0 +1,3 @@
+.pet-deps/
+__pycache__/
+*.pyc

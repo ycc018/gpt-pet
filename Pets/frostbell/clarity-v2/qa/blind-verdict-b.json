@@ -1,0 +1,18 @@
+{
+  "pairs": [
+    {"pair":"horizontal-1","A":"screen-left","B":"screen-right","reason":"A has a slight leftward facial axis and leftward iris placement; B's nose and facial axis shift right. This is the subtlest horizontal pair, but the face cues remain distinguishable."},
+    {"pair":"horizontal-2","A":"screen-right","B":"screen-left","reason":"A's nose points right and its right-side eye is foreshortened; B has the opposite facial asymmetry and its nose points left."},
+    {"pair":"horizontal-3","A":"screen-right","B":"screen-left","reason":"A exposes the left cheek with the nose near the right face edge; B exposes the right cheek with the nose displaced left."},
+    {"pair":"horizontal-4","A":"screen-left","B":"screen-right","reason":"A's visible eyes and small nose angle left; B has a clear right-facing near-profile with the far eye narrowed beside the nose."},
+    {"pair":"horizontal-5","A":"screen-right","B":"screen-left","reason":"A's chin and nose project to the right beneath asymmetrical eyes; B's nose projects left with the opposite eye foreshortened."},
+    {"pair":"horizontal-6","A":"screen-left","B":"screen-right","reason":"Both faces are lowered, but A's nose and chin shift left while B's nose and chin shift right; the smaller far eye switches sides."},
+    {"pair":"horizontal-7","A":"screen-right","B":"screen-left","reason":"A's lowered face projects right with its far eye compressed on the right; B's nose is left of its face center and its left eye is foreshortened."},
+    {"pair":"vertical-1","A":"up","B":"down","reason":"A raises its chin, exposes a broad lower face, and directs its irises upward; B bows its face with low eyes beneath prominent bangs and a compressed lower face."},
+    {"pair":"vertical-2","A":"up","B":"down","reason":"A's chin is raised with open eyes high in the face; B's face tips downward, with low narrowed eyes and little visible cheek below them."},
+    {"pair":"vertical-3","A":"down","B":"up","reason":"A's lowered face has low eyelids beneath a large forehead; B raises its face and chin, with open upward-oriented eyes and a fuller visible lower face."},
+    {"pair":"vertical-4","A":"down","B":"up","reason":"A's face angles downward with lowered eyelids and a short lower face; B's nose and chin lift and its eyes open toward the upper side."},
+    {"pair":"vertical-5","A":"up","B":"down","reason":"A's chin lifts with the irises directed upward and ample cheek below the eyes; B bows its head with narrowed eyes at the bottom of its bangs."},
+    {"pair":"vertical-6","A":"down","B":"up","reason":"A has lowered eyelids and its face compressed beneath the bangs; B lifts its chin with upward-directed eyes and an expanded visible lower face."},
+    {"pair":"vertical-7","A":"down","B":"up","reason":"A's eyes sit low under the bangs and its chin is tucked; B's chin and nose lift, with rounder eyes directed upward."}
+  ]
+}

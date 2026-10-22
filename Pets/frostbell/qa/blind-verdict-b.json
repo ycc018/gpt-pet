@@ -1,0 +1,18 @@
+{
+  "pairs": [
+    {"pair":"horizontal-1","A":"screen-right","B":"screen-left","reason":"A's eyes and nose sit toward the right of its face; B's face and nose turn left, exposing more cheek on the right."},
+    {"pair":"horizontal-2","A":"screen-right","B":"screen-left","reason":"A's facial center points right with the right eye nearer the face edge; B's facial center shifts left and its right cheek is more exposed."},
+    {"pair":"horizontal-3","A":"screen-left","B":"screen-right","reason":"A's nose and eyes point toward the left face edge; B's eyes and nose point right with more left cheek visible."},
+    {"pair":"horizontal-4","A":"screen-right","B":"screen-left","reason":"A's eye line and nose face right; B's facial features cluster toward the left edge with the right side of the head exposed."},
+    {"pair":"horizontal-5","A":"screen-right","B":"screen-left","reason":"A has its nose and smaller far eye toward screen-right; B's nose and smaller far eye are toward screen-left."},
+    {"pair":"horizontal-6","A":"screen-left","B":"screen-right","reason":"Despite the lowered eyelids, A's nose and facial center turn left, while B's facial center and eye asymmetry turn right."},
+    {"pair":"horizontal-7","A":"screen-right","B":"screen-left","reason":"A's lowered face has its nose toward the right and more cheek on the left; B has the reverse arrangement."},
+    {"pair":"vertical-1","A":"down","B":"up","reason":"A's face is bowed with lowered eyes under the fringe and a tucked chin; B's eyes are high and its chin and face tilt upward."},
+    {"pair":"vertical-2","A":"up","B":"down","reason":"A's eyes are higher on an exposed face with lifted chin; B's eyes are lowered beneath the bangs and the chin is tucked."},
+    {"pair":"vertical-3","A":"up","B":"down","reason":"A's eyes and face angle upward with more cheek below the eyes; B's lowered eyes and compressed lower face indicate a downward head tilt."},
+    {"pair":"vertical-4","A":"up","B":"down","reason":"The difference is subtle: A's eyes sit higher with a raised chin and more face beneath the eyes; B's eyes and nose sit lower with the chin nearer the collar."},
+    {"pair":"vertical-5","A":"down","B":"up","reason":"A's fringe hangs over lowered eyes and its chin is tucked; B's eyes look high and its chin is lifted, exposing a broad lower face."},
+    {"pair":"vertical-6","A":"up","B":"down","reason":"A shows high open eyes and an upward face angle; B shows lowered eyes underneath the fringe and a bowed head."},
+    {"pair":"vertical-7","A":"down","B":"up","reason":"A's eyes sit low beneath the fringe and the face points downward; B's eyes are higher and its face and chin lift upward."}
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "ok": true,
+  "frames_root": "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\rows\\running-right\\frames",
+  "states": [
+    "running-right"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\rows\\running-right\\frames\\running-right\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17651,
+          "bbox": [
+            22,
+            5,
+            170,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 305
+        },
+        {
+          "index": 1,
+          "file": "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\rows\\running-right\\frames\\running-right\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16516,
+          "bbox": [
+            26,
+            5,
+            166,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 303
+        },
+        {
+          "index": 2,
+          "file": "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\rows\\running-right\\frames\\running-right\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16675,
+          "bbox": [
+            24,
+            5,
+            168,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 319
+        },
+        {
+          "index": 3,
+          "file": "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\rows\\running-right\\frames\\running-right\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15503,
+          "bbox": [
+            24,
+            7,
+            168,
+            184
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 290
+        },
+        {
+          "index": 4,
+          "file": "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\rows\\running-right\\frames\\running-right\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17497,
+          "bbox": [
+            24,
+            6,
+            168,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 300
+        },
+        {
+          "index": 5,
+          "file": "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\rows\\running-right\\frames\\running-right\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16489,
+          "bbox": [
+            26,
+            5,
+            166,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 291
+        },
+        {
+          "index": 6,
+          "file": "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\rows\\running-right\\frames\\running-right\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16726,
+          "bbox": [
+            24,
+            7,
+            168,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 280
+        },
+        {
+          "index": 7,
+          "file": "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\rows\\running-right\\frames\\running-right\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16408,
+          "bbox": [
+            22,
+            7,
+            170,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 302
+        }
+      ]
+    }
+  ]
+}

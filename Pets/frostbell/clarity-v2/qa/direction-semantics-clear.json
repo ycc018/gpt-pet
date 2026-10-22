@@ -1,0 +1,119 @@
+{
+  "directions": [
+    {
+      "direction": "000",
+      "expected": "up",
+      "observed": "up",
+      "verdict": "pass",
+      "evidence": "Chin and nose lift; both purple irises aim high with lower sclera exposed, face remains frontal."
+    },
+    {
+      "direction": "022.5",
+      "expected": "up-right",
+      "observed": "up-right",
+      "verdict": "warning",
+      "evidence": "Chin stays raised and irises high while nose and iris centers begin a small screen-right shift; horizontal component is subtle at native size."
+    },
+    {
+      "direction": "045",
+      "expected": "up-right",
+      "observed": "up-right",
+      "verdict": "pass",
+      "evidence": "Head and nose turn screen-right and both irises favor the right side while chin remains lifted."
+    },
+    {
+      "direction": "067.5",
+      "expected": "up-right",
+      "observed": "up-right",
+      "verdict": "warning",
+      "evidence": "Nose and eye centers move farther screen-right; a small lifted chin and high iris position retain the upward component."
+    },
+    {
+      "direction": "090",
+      "expected": "right",
+      "observed": "right",
+      "verdict": "pass",
+      "evidence": "Face yaws screen-right, nose tip and both iris centers point right of head center, chin approximately level."
+    },
+    {
+      "direction": "112.5",
+      "expected": "down-right",
+      "observed": "down-right",
+      "verdict": "warning",
+      "evidence": "Face stays screen-right while chin and nose begin lowering and upper eyelids descend; downward component is subtle but ordered."
+    },
+    {
+      "direction": "135",
+      "expected": "down-right",
+      "observed": "down-right",
+      "verdict": "pass",
+      "evidence": "Low chin and eyelids show downward pitch while nose and both eyes retain screen-right direction."
+    },
+    {
+      "direction": "157.5",
+      "expected": "down-right",
+      "observed": "down-right",
+      "verdict": "pass",
+      "evidence": "Chin tucks farther with low irises; face and nose retain a slight rightward offset before the down cardinal."
+    },
+    {
+      "direction": "180",
+      "expected": "down",
+      "observed": "down",
+      "verdict": "pass",
+      "evidence": "Frontal face pitches clearly down; nose and chin lower, purple irises sit low beneath the brow while eyes remain open."
+    },
+    {
+      "direction": "202.5",
+      "expected": "down-left",
+      "observed": "down-left",
+      "verdict": "warning",
+      "evidence": "Head remains bowed and irises low; nose and eyes start shifting screen-left, a small horizontal step."
+    },
+    {
+      "direction": "225",
+      "expected": "down-left",
+      "observed": "down-left",
+      "verdict": "pass",
+      "evidence": "Nose and eyes point screen-left while tucked chin and lowered eyelids retain the down axis."
+    },
+    {
+      "direction": "247.5",
+      "expected": "down-left",
+      "observed": "down-left",
+      "verdict": "warning",
+      "evidence": "Face and pupils favor screen-left with a small downward chin tilt before the level left cardinal."
+    },
+    {
+      "direction": "270",
+      "expected": "left",
+      "observed": "left",
+      "verdict": "pass",
+      "evidence": "Face plane, nose tip and both iris centers move distinctly screen-left; torso remains frontal and chin level."
+    },
+    {
+      "direction": "292.5",
+      "expected": "up-left",
+      "observed": "up-left",
+      "verdict": "warning",
+      "evidence": "Nose and pupils stay screen-left as chin lifts a little and irises rise; the upward component is small but visible."
+    },
+    {
+      "direction": "315",
+      "expected": "up-left",
+      "observed": "up-left",
+      "verdict": "pass",
+      "evidence": "Nose and chin lift while eye centers and face remain screen-left, both axes visible."
+    },
+    {
+      "direction": "337.5",
+      "expected": "up-left",
+      "observed": "up-left",
+      "verdict": "pass",
+      "evidence": "Chin rises strongly and irises aim high; nose and eyes retain a small screen-left offset, approaching the up pose."
+    }
+  ],
+  "continuity_review": "Reviewed final native-size labeled sheet and all sixteen poses. No whole-body rotation, wrong quadrant, duplicated flower, clipping or lost face. Horn/curl exterior gaps at y11..18 explain alpha-hole warnings. The 157.5->180 diff warning reflects expected right-to-frontal head change; feet/body stay anchored and no material visual snap was observed.",
+  "source_atlas": "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\final\\spritesheet-clear.png",
+  "edge_review": "Re-inspected final edge-cleaned contact and direction sheets. Pose, quadrant and landmark verdicts remain the same. Chroma removal threshold180 reduces outer key fringe without clipping face, limbs, wings, hair or tail. Exterior gaps near horns remain intentional."
+}

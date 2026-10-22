@@ -1,0 +1,97 @@
+{
+  "ok": true,
+  "frames_root": "D:\\gpt-pet\\Pets\\frostbell\\qa\\rows\\jumping-v2\\frames",
+  "states": [
+    "jumping"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "D:\\gpt-pet\\Pets\\frostbell\\qa\\rows\\jumping-v2\\frames\\jumping\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16096,
+          "bbox": [
+            30,
+            33,
+            161,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 60
+        },
+        {
+          "index": 1,
+          "file": "D:\\gpt-pet\\Pets\\frostbell\\qa\\rows\\jumping-v2\\frames\\jumping\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16580,
+          "bbox": [
+            30,
+            14,
+            161,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 78
+        },
+        {
+          "index": 2,
+          "file": "D:\\gpt-pet\\Pets\\frostbell\\qa\\rows\\jumping-v2\\frames\\jumping\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16859,
+          "bbox": [
+            29,
+            5,
+            162,
+            192
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 77
+        },
+        {
+          "index": 3,
+          "file": "D:\\gpt-pet\\Pets\\frostbell\\qa\\rows\\jumping-v2\\frames\\jumping\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16428,
+          "bbox": [
+            29,
+            15,
+            162,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 69
+        },
+        {
+          "index": 4,
+          "file": "D:\\gpt-pet\\Pets\\frostbell\\qa\\rows\\jumping-v2\\frames\\jumping\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15877,
+          "bbox": [
+            30,
+            32,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 49
+        }
+      ]
+    }
+  ]
+}

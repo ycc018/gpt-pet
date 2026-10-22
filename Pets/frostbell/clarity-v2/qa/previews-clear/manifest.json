@@ -1,0 +1,15 @@
+{
+  "source_atlas": "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\final\\spritesheet-clear.webp",
+  "standard_frames": 57,
+  "look_frames": 16,
+  "files": [
+    "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\previews-clear\\all-states.gif",
+    "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\previews-clear\\all-states.mp4",
+    "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\previews-clear\\comparison-final.png",
+    "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\previews-clear\\idle-jump-idle.gif",
+    "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\previews-clear\\look-loop.gif",
+    "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\previews-clear\\motion-stills.png"
+  ],
+  "pixel_equivalent_png": "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\final\\spritesheet-clear.png",
+  "lossless_rgba_equality_verified": true
+}

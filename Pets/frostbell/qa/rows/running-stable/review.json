@@ -1,0 +1,126 @@
+{
+  "ok": false,
+  "frames_root": "D:\\gpt-pet\\Pets\\frostbell\\qa\\rows\\running-stable\\frames",
+  "states": [
+    "running"
+  ],
+  "errors": [
+    "running frame 02 is empty or too sparse (3 pixels)",
+    "running frame 05 is empty or too sparse (3 pixels)"
+  ],
+  "warnings": [
+    "running used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "running frame 02 is much smaller than the row median (3 vs 10558)",
+    "running frame 05 is much smaller than the row median (3 vs 10558)"
+  ],
+  "rows": [
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "stable-slots",
+      "ok": false,
+      "errors": [
+        "running frame 02 is empty or too sparse (3 pixels)",
+        "running frame 05 is empty or too sparse (3 pixels)"
+      ],
+      "warnings": [
+        "running used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+        "running frame 02 is much smaller than the row median (3 vs 10558)",
+        "running frame 05 is much smaller than the row median (3 vs 10558)"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "D:\\gpt-pet\\Pets\\frostbell\\qa\\rows\\running-stable\\frames\\running\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10632,
+          "bbox": [
+            47,
+            27,
+            144,
+            180
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 52
+        },
+        {
+          "index": 1,
+          "file": "D:\\gpt-pet\\Pets\\frostbell\\qa\\rows\\running-stable\\frames\\running\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21193,
+          "bbox": [
+            5,
+            27,
+            187,
+            180
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 96
+        },
+        {
+          "index": 2,
+          "file": "D:\\gpt-pet\\Pets\\frostbell\\qa\\rows\\running-stable\\frames\\running\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 3,
+          "bbox": [
+            95,
+            65,
+            97,
+            67
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 3,
+          "file": "D:\\gpt-pet\\Pets\\frostbell\\qa\\rows\\running-stable\\frames\\running\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21286,
+          "bbox": [
+            5,
+            27,
+            187,
+            180
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 108
+        },
+        {
+          "index": 4,
+          "file": "D:\\gpt-pet\\Pets\\frostbell\\qa\\rows\\running-stable\\frames\\running\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10485,
+          "bbox": [
+            49,
+            27,
+            144,
+            180
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 60
+        },
+        {
+          "index": 5,
+          "file": "D:\\gpt-pet\\Pets\\frostbell\\qa\\rows\\running-stable\\frames\\running\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 3,
+          "bbox": [
+            95,
+            114,
+            97,
+            116
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 1
+        }
+      ]
+    }
+  ]
+}

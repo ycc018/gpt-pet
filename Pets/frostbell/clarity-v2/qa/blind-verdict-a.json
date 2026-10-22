@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A has its nose and eye group shifted left relative to the head, with more of the screen-right ear visible; B shifts the nose and eye group right and exposes the screen-left ear. The yaw is mild but readable."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A exposes the screen-left cheek and ear while the nose approaches the screen-right facial edge; B exposes the screen-right ear and places its nose toward screen-left."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A has a foreshortened screen-right eye and its nose points right; B has a smaller screen-left eye, an exposed right ear, and its nose points left."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A has a narrower screen-left eye and its nose lies left of the face center; B shows a strong right-facing cheek contour, nose near the right edge, and a mostly hidden far eye."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A shows a broad screen-left cheek and eye with a compressed screen-right eye; B reverses that facial perspective and places its nose leftward."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "Both heads pitch downward, but A still has the smaller screen-left eye and nose displaced left; B has the smaller screen-right eye and nose displaced right."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "Despite downward pitch, A exposes the left ear and broad left cheek with the nose toward screen-right; B exposes the right ear and places the nose toward screen-left."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "up",
+      "B": "down",
+      "reason": "A lifts its chin and leaves a large face area below the elevated eyes; B reveals more crown, lowers the brows and eyes, and tucks the chin toward the collar."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "up",
+      "B": "down",
+      "reason": "A has open elevated eyes and an extended chin-to-neck region; B bows the head, reveals the upper hair dome, and compresses the visible lower face."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "down",
+      "B": "up",
+      "reason": "A has a lowered eye line, prominent crown, and short tucked chin; B has higher eyes and nose with a lifted chin and more lower-face exposure."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "down",
+      "B": "up",
+      "reason": "A tilts the crown toward the viewer, with the eyes low under the fringe and chin tucked; B raises its eye and nose line and extends the chin outward and upward."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "up",
+      "B": "down",
+      "reason": "A raises the nose and opens the lower-face plane beneath the eyes; B bows its forehead forward and reduces the exposed chin area."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "down",
+      "B": "up",
+      "reason": "A shows the top hair mass and lowered half-lidded eyes over a tucked chin; B raises its face and nose, with open eyes and more visible lower face."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "down",
+      "B": "up",
+      "reason": "A pitches the face downward with low eyes and a compressed chin; B has a higher nose and eye line and a visibly lifted chin."
+    }
+  ]
+}

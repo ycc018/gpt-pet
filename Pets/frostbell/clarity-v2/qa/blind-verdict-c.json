@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A shows the facial features slightly shifted toward screen-left within the head; B has the opposite eye and face offset toward screen-right. This is subtle."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A has a rightward face angle, with the visible ear extending on screen-left; B exposes the ear on screen-right and turns the eye and nose region left."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A presents a rightward facial angle and a more exposed screen-left ear; B mirrors that head angle with the exposed screen-right ear."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A shows a clear left-facing cheek and compressed far eye; B shows the opposite right-facing cheek and nose silhouette."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "Although both heads tilt down, A has the face and eye region directed right, with its screen-left ear exposed; B directs them left with its screen-right ear exposed."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A lowers its head while exposing the screen-right ear and aiming the face left; B exposes more of the screen-left ear and directs the face right."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A has the downward eye and facial center offset toward screen-right; B has the converse face offset and more visible screen-right ear."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "up",
+      "B": "down",
+      "reason": "A raises the chin and places open eyes high on the face; B bows the head with lowered eyes and prominent upper hair."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "up",
+      "B": "down",
+      "reason": "A has an exposed lifted face with the eye line high; B lowers the chin and eyes beneath the bangs."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "down",
+      "B": "up",
+      "reason": "A bows with eyes low beneath the bangs; B lifts the chin and open eyes upward."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "down",
+      "B": "up",
+      "reason": "The pitch is mild: A places the eye and nose region lower under the bangs; B raises the eye line and chin, exposing more face below the eyes."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "up",
+      "B": "down",
+      "reason": "A raises the face and eyes with a lifted chin; B bows the head with eyes low and narrowed beneath the bangs."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "down",
+      "B": "up",
+      "reason": "A has a lowered face, eyes, and chin; B lifts the face and directs the open eyes upward."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "down",
+      "B": "up",
+      "reason": "A has a low eye line and tucked chin; B raises the eye line and opens the face upward, although the pitch difference is moderate."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "directions": [
+    {
+      "direction": "000",
+      "expected": "up",
+      "observed": "up",
+      "verdict": "pass",
+      "evidence": "Chin and nose tip lift; irises sit high in both open eyes, with lower face exposed."
+    },
+    {
+      "direction": "022.5",
+      "expected": "up-right",
+      "observed": "up-right",
+      "verdict": "warning",
+      "evidence": "Chin remains raised and irises high; nose and face shift slightly screen-right. Horizontal movement is subtle at native size."
+    },
+    {
+      "direction": "045",
+      "expected": "up-right",
+      "observed": "up-right",
+      "verdict": "warning",
+      "evidence": "Head yaws right with nose right of the fringe center; irises retain an upward position. Similar to the next pose but in the correct quadrant."
+    },
+    {
+      "direction": "067.5",
+      "expected": "up-right",
+      "observed": "up-right",
+      "verdict": "warning",
+      "evidence": "Nose and irises favor screen-right; lifted chin and high irises retain a small upward component."
+    },
+    {
+      "direction": "090",
+      "expected": "right",
+      "observed": "right",
+      "verdict": "pass",
+      "evidence": "Nose tip and face are displaced screen-right from head center; both iris centers point right while chin is level."
+    },
+    {
+      "direction": "112.5",
+      "expected": "down-right",
+      "observed": "down-right",
+      "verdict": "warning",
+      "evidence": "Face and nose remain screen-right; chin begins to tuck and eyelids move lower. Downward component is small but visible in the loop."
+    },
+    {
+      "direction": "135",
+      "expected": "down-right",
+      "observed": "down-right",
+      "verdict": "pass",
+      "evidence": "Nose points screen-right while chin dips and irises sit low beneath lowered upper eyelids."
+    },
+    {
+      "direction": "157.5",
+      "expected": "down-right",
+      "observed": "down-right",
+      "verdict": "pass",
+      "evidence": "Head pitches farther down with low irises; nose and face retain a slight screen-right offset, approaching the down anchor."
+    },
+    {
+      "direction": "180",
+      "expected": "down",
+      "observed": "down",
+      "verdict": "pass",
+      "evidence": "Chin is tucked and nose lowered, both open eyes aim below the brow line; head is broadly frontal."
+    },
+    {
+      "direction": "202.5",
+      "expected": "down-left",
+      "observed": "down-left",
+      "verdict": "warning",
+      "evidence": "Chin remains lowered and irises low; nose and eyes start shifting screen-left, a subtle horizontal step."
+    },
+    {
+      "direction": "225",
+      "expected": "down-left",
+      "observed": "down-left",
+      "verdict": "pass",
+      "evidence": "Head and nose yaw screen-left while lowered chin and low eyelids retain the downward axis."
+    },
+    {
+      "direction": "247.5",
+      "expected": "down-left",
+      "observed": "down-left",
+      "verdict": "warning",
+      "evidence": "Face and irises point screen-left; a small downward chin tilt remains before the level left pose."
+    },
+    {
+      "direction": "270",
+      "expected": "left",
+      "observed": "left",
+      "verdict": "pass",
+      "evidence": "Nose tip, visible cheek plane and both iris centers move screen-left relative to the head; chin is approximately level."
+    },
+    {
+      "direction": "292.5",
+      "expected": "up-left",
+      "observed": "up-left",
+      "verdict": "warning",
+      "evidence": "Nose and face stay screen-left while chin lifts slightly and irises begin moving upward."
+    },
+    {
+      "direction": "315",
+      "expected": "up-left",
+      "observed": "up-left",
+      "verdict": "pass",
+      "evidence": "Chin and nose rise while face and irises remain directed screen-left; both axes are visible."
+    },
+    {
+      "direction": "337.5",
+      "expected": "up-left",
+      "observed": "up-left",
+      "verdict": "pass",
+      "evidence": "Chin is strongly raised and irises high; nose and eyes retain a small screen-left offset, approaching the up pose."
+    }
+  ],
+  "continuity_review": "Normal-size labeled sheet reviewed. No reversed quadrants, whole-body turntables, visible clipping, lost face, ornament duplication or registration pops. Continuity alpha warnings occur only at y=11..20 between horns and curled hair above the head; these are intentional exterior silhouette gaps, not interior material holes."
+}

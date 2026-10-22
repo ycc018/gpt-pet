@@ -1,0 +1,81 @@
+{
+  "ok": true,
+  "atlas": "D:\\gpt-pet\\Pets\\frostbell\\final\\spritesheet-extended.png",
+  "encoded_bytes": 3742011,
+  "sha256": "225eedddab0e0eb1a41dc6a57645cdd74f59c0be684362a870cd45e02287e5be",
+  "jump": {
+    "idle_baseline": 202,
+    "jump_baselines": [
+      202,
+      197,
+      190,
+      197,
+      202
+    ],
+    "airborne_lift_pixels": 12,
+    "landing_delta_pixels": 0
+  },
+  "look_registration": {
+    "neutral_center_x": 96.0,
+    "look_centers_x": [
+      97.0,
+      97.0,
+      96.5,
+      97.0,
+      97.0,
+      96.5,
+      97.0,
+      97.5,
+      96.5,
+      96.5,
+      96.5,
+      98.0,
+      97.0,
+      97.5,
+      97.5,
+      97.5
+    ],
+    "look_widths": [
+      122,
+      122,
+      123,
+      122,
+      122,
+      123,
+      122,
+      121,
+      123,
+      121,
+      121,
+      120,
+      122,
+      121,
+      121,
+      121
+    ],
+    "maximum_center_drift_pixels": 2.0,
+    "maximum_width_ratio": 1.025
+  },
+  "errors": [],
+  "warnings": [
+    "look direction 022.5 accepted with a reviewed warning",
+    "look direction 045 accepted with a reviewed warning",
+    "look direction 067.5 accepted with a reviewed warning",
+    "look direction 112.5 accepted with a reviewed warning",
+    "look direction 202.5 accepted with a reviewed warning",
+    "look direction 247.5 accepted with a reviewed warning",
+    "look direction 292.5 accepted with a reviewed warning",
+    "000 has transparent interior hole rows (y=12, y=13, y=14, y=15, +5 more)",
+    "022.5 has transparent interior hole rows (y=12, y=13, y=14, y=15, +5 more)",
+    "045 has transparent interior hole rows (y=11)",
+    "067.5 has transparent interior hole rows (y=12, y=13, y=14, y=15, +4 more)",
+    "090 has transparent interior hole rows (y=11, y=12, y=13, y=14, +5 more)",
+    "112.5 has transparent interior hole rows (y=13, y=14, y=15, y=16, +3 more)",
+    "135 has transparent interior hole rows (y=12, y=13, y=14, y=15, +4 more)",
+    "157.5 has transparent interior hole rows (y=12, y=13, y=14, y=15, +4 more)",
+    "180 has transparent interior hole rows (y=11, y=12, y=13, y=14, +4 more)",
+    "202.5 has transparent interior hole rows (y=11)",
+    "315 has transparent interior hole rows (y=13, y=14, y=15, y=16)",
+    "337.5 has transparent interior hole rows (y=15, y=16, y=17, y=18, +2 more)"
+  ]
+}

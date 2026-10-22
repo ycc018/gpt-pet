@@ -1,0 +1,7 @@
+Create one clean full-body reference sprite for ChatGPT pet 霜铃.
+
+Pet identity: Same existing white-haired lavender-eyed chibi dragon girl. Preserve single flower at screen-right temple, ivory horns, pointed ears, lavender wings, pale scaled tail, white/lilac ruffled dress and shoes. Improve small-size clarity: strong clean dark-purple outlines, bold separated facial features, opaque flat white and lavender color blocks, simplified lace/scale marks, no fine filigree, no texture/noise. Keep cute proportions..
+Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `auto`: Infer the most appropriate pet-safe style from the user request and reference images, then keep that exact style consistent across every row. User style notes: Crisp clean 2D anime game sprite, confident dark plum outer contour, clean cel shading, high contrast facial features, restrained large clothing details; not pixel art. Full-body artwork must stay clear at native 192x208..
+
+
+Place a single centered pose on a perfectly flat pure green #00FF00 chroma-key background. Keep the full pet visible, compact, readable at 192x208, and easy to animate. Preserve approved reference identity cues. No scenery, text, borders, checkerboard transparency, shadows, glows, detached effects, or extra props. Keep #00FF00 and close colors out of the pet, props, highlights, and effects.

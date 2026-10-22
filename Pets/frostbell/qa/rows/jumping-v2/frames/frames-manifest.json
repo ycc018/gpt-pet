@@ -1,0 +1,25 @@
+{
+  "ok": true,
+  "chroma_key": {
+    "hex": "#00FF00",
+    "rgb": [
+      0,
+      255,
+      0
+    ],
+    "threshold": 96.0
+  },
+  "rows": [
+    {
+      "state": "jumping",
+      "frames": [
+        "D:\\gpt-pet\\Pets\\frostbell\\qa\\rows\\jumping-v2\\frames\\jumping\\00.png",
+        "D:\\gpt-pet\\Pets\\frostbell\\qa\\rows\\jumping-v2\\frames\\jumping\\01.png",
+        "D:\\gpt-pet\\Pets\\frostbell\\qa\\rows\\jumping-v2\\frames\\jumping\\02.png",
+        "D:\\gpt-pet\\Pets\\frostbell\\qa\\rows\\jumping-v2\\frames\\jumping\\03.png",
+        "D:\\gpt-pet\\Pets\\frostbell\\qa\\rows\\jumping-v2\\frames\\jumping\\04.png"
+      ],
+      "method": "components"
+    }
+  ]
+}

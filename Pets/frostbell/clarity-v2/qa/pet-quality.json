@@ -1,0 +1,83 @@
+{
+  "ok": true,
+  "atlas": "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\final\\spritesheet-extended.png",
+  "encoded_bytes": 4228593,
+  "sha256": "b02b8d3f0030d21cac80ef9d557862f60ba0784a138a9a0f021b10aae784b348",
+  "jump": {
+    "idle_baseline": 202,
+    "jump_baselines": [
+      201,
+      201,
+      189,
+      184,
+      202
+    ],
+    "airborne_lift_pixels": 18,
+    "landing_delta_pixels": 0
+  },
+  "look_registration": {
+    "neutral_center_x": 95.5,
+    "look_centers_x": [
+      96.5,
+      96.0,
+      96.0,
+      96.5,
+      96.0,
+      96.0,
+      95.5,
+      96.0,
+      95.0,
+      96.0,
+      96.0,
+      97.0,
+      96.0,
+      96.5,
+      96.5,
+      96.0
+    ],
+    "look_widths": [
+      139,
+      136,
+      136,
+      137,
+      136,
+      136,
+      137,
+      136,
+      140,
+      136,
+      136,
+      136,
+      136,
+      135,
+      135,
+      134
+    ],
+    "maximum_center_drift_pixels": 1.5,
+    "maximum_width_ratio": 1.044776119402985
+  },
+  "errors": [],
+  "warnings": [
+    "look direction 022.5 accepted with a reviewed warning",
+    "look direction 067.5 accepted with a reviewed warning",
+    "look direction 112.5 accepted with a reviewed warning",
+    "look direction 202.5 accepted with a reviewed warning",
+    "look direction 247.5 accepted with a reviewed warning",
+    "look direction 292.5 accepted with a reviewed warning",
+    "000 has transparent interior hole rows (y=16, y=17, y=18)",
+    "022.5 has transparent interior hole rows (y=14, y=15, y=16, y=17, +1 more)",
+    "045 has transparent interior hole rows (y=14, y=15, y=16, y=17, +1 more)",
+    "067.5 has transparent interior hole rows (y=11)",
+    "112.5 has transparent interior hole rows (y=16)",
+    "135 has transparent interior hole rows (y=16, y=17, y=18)",
+    "180 has transparent interior hole rows (y=11, y=12, y=13, y=14, +3 more)",
+    "202.5 has transparent interior hole rows (y=14, y=15, y=16, y=17)",
+    "225 has transparent interior hole rows (y=14, y=15, y=16, y=17)",
+    "247.5 has transparent interior hole rows (y=14, y=15, y=16, y=17)",
+    "270 has transparent interior hole rows (y=13, y=14, y=15, y=16, +1 more)",
+    "292.5 has transparent interior hole rows (y=13, y=14, y=15, y=16)",
+    "315 has transparent interior hole rows (y=14, y=15, y=16, y=17)",
+    "337.5 has transparent interior hole rows (y=14, y=15, y=16)",
+    "157.5->180 diff is a local outlier (3128 pixels vs neighbor average 1896)"
+  ]
+}

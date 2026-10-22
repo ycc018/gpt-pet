@@ -1,0 +1,15 @@
+{
+  "id": "pet_6ad9d08344ac8191825bc25fe3d57956",
+  "name": "霜铃",
+  "description": "白发紫瞳、龙角与小翼的软萌龙娘。",
+  "is_custom": true,
+  "active_pet_id": "pet_6ad9d08344ac8191825bc25fe3d57956",
+  "atlas_path": "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\final\\spritesheet-clear.png",
+  "atlas_sha256": "d63a38962953803f943d612d197fc0447b05de70e5bc31ba4164f661076ab150",
+  "library_storage": "unavailable; artifacts preserved in local workspace",
+  "created_on": "2026-10-22",
+  "previous_atlas_path": "D:\\gpt-pet\\Pets\\frostbell\\final\\spritesheet-extended.png",
+  "previous_atlas_sha256": "225eedddab0e0eb1a41dc6a57645cdd74f59c0be684362a870cd45e02287e5be",
+  "revision": "clarity-v2",
+  "updated_on": "2026-10-22"
+}

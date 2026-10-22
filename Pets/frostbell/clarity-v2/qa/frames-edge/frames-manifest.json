@@ -1,0 +1,125 @@
+{
+  "ok": true,
+  "chroma_key": {
+    "hex": "#00FF00",
+    "rgb": [
+      0,
+      255,
+      0
+    ],
+    "threshold": 180.0
+  },
+  "rows": [
+    {
+      "state": "idle",
+      "frames": [
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\idle\\00.png",
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\idle\\01.png",
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\idle\\02.png",
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\idle\\03.png",
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\idle\\04.png",
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\idle\\05.png"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "running-right",
+      "frames": [
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\running-right\\00.png",
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\running-right\\01.png",
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\running-right\\02.png",
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\running-right\\03.png",
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\running-right\\04.png",
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\running-right\\05.png",
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\running-right\\06.png",
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\running-right\\07.png"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "running-left",
+      "frames": [
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\running-left\\00.png",
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\running-left\\01.png",
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\running-left\\02.png",
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\running-left\\03.png",
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\running-left\\04.png",
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\running-left\\05.png",
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\running-left\\06.png",
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\running-left\\07.png"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "waving",
+      "frames": [
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\waving\\00.png",
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\waving\\01.png",
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\waving\\02.png",
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\waving\\03.png"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "jumping",
+      "frames": [
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\jumping\\00.png",
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\jumping\\01.png",
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\jumping\\02.png",
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\jumping\\03.png",
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\jumping\\04.png"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "failed",
+      "frames": [
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\failed\\00.png",
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\failed\\01.png",
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\failed\\02.png",
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\failed\\03.png",
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\failed\\04.png",
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\failed\\05.png",
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\failed\\06.png",
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\failed\\07.png"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "waiting",
+      "frames": [
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\waiting\\00.png",
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\waiting\\01.png",
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\waiting\\02.png",
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\waiting\\03.png",
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\waiting\\04.png",
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\waiting\\05.png"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "running",
+      "frames": [
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\running\\00.png",
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\running\\01.png",
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\running\\02.png",
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\running\\03.png",
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\running\\04.png",
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\running\\05.png"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "review",
+      "frames": [
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\review\\00.png",
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\review\\01.png",
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\review\\02.png",
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\review\\03.png",
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\review\\04.png",
+        "D:\\gpt-pet\\Pets\\frostbell\\clarity-v2\\qa\\frames-edge\\review\\05.png"
+      ],
+      "method": "components"
+    }
+  ]
+}

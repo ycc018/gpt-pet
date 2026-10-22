@@ -1,0 +1,13 @@
+{
+  "source_atlas": "D:\\gpt-pet\\Pets\\frostbell\\final\\spritesheet-extended.png",
+  "standard_states": 9,
+  "standard_frames": 57,
+  "look_frames": 16,
+  "files": [
+    "D:\\gpt-pet\\Pets\\frostbell\\qa\\previews-final\\all-states.gif",
+    "D:\\gpt-pet\\Pets\\frostbell\\qa\\previews-final\\all-states.mp4",
+    "D:\\gpt-pet\\Pets\\frostbell\\qa\\previews-final\\idle-jump-idle.gif",
+    "D:\\gpt-pet\\Pets\\frostbell\\qa\\previews-final\\look-loop.gif",
+    "D:\\gpt-pet\\Pets\\frostbell\\qa\\previews-final\\motion-stills.png"
+  ]
+}

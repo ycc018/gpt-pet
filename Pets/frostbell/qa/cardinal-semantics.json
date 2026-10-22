@@ -1,0 +1,8 @@
+{
+  "directions": [
+    {"direction":"000","expected":"up","observed":"up","verdict":"pass","evidence":"Chin is raised and purple irises sit high in the eye openings; lower face lifts while feet remain planted."},
+    {"direction":"090","expected":"right","observed":"screen-right","verdict":"pass","evidence":"Face yaws to screen-right; nose tip and iris centers move right relative to the white fringe and head center."},
+    {"direction":"180","expected":"down","observed":"down","verdict":"pass","evidence":"Chin lowers, the upper lids lower and the visible purple irises face beneath the brow line; the eyes remain open."},
+    {"direction":"270","expected":"left","observed":"screen-left","verdict":"pass","evidence":"Face yaws screen-left with nose and iris centers left of their neutral positions; torso stays frontal."}
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A: the nose/mouth sit toward the right side of the exposed face and the left cheek is broader. B: nose and gaze point left; the screen-right ear and cheek are more exposed."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A: the narrower screen-right eye and right-shifted nose show a rightward head turn. B: the screen-left eye is foreshortened and the nose points left."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A: the face projects left, with a narrow left eye and broad visible right cheek. B: the face projects right, with a narrower right eye and broader left cheek."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A: the nose/mouth are right-shifted beneath the eyes and the right eye is narrower. B: the nose and lowered gaze angle left, with more right cheek/ear exposed."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A: the small nose is right of the facial center and the right eye is foreshortened. B: the left eye is narrower and the nose points left."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A: the lowered face projects left and the left eye is smaller. B: the lowered face projects right and the right eye is smaller."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A: the bowed face has the nose and narrow right eye toward screen-right. B: the bowed face has the nose toward screen-left and a broader exposed right cheek."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "down",
+      "B": "up",
+      "reason": "A: bowed forehead, low half-lidded irises, and a chin tucked directly under the small face. B: raised chin, exposed lower face, and open eyes looking upward."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "up",
+      "B": "down",
+      "reason": "A: open round eyes point upward, with the nose above an exposed lower face and lifted chin. B: the bangs and upper lids overhang low irises and the chin is tucked."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "up",
+      "B": "down",
+      "reason": "A: the open eyes and raised facial plane suggest an upward gaze. B: the eyes are half-lidded under a forward-bowed forehead and the lower face is compressed."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "ambiguous",
+      "B": "ambiguous",
+      "reason": "Both faces turn right with open eyes; neither shows a sufficiently clear upward/downward iris offset, raised chin, or bowed forehead. Their small facial differences do not give a reliable vertical direction."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "down",
+      "B": "up",
+      "reason": "A: forehead and bangs dominate above low half-lidded eyes, with a tucked chin. B: chin is lifted, the lower face is broadly visible, and the open eyes look upward."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "up",
+      "B": "down",
+      "reason": "A: raised chin and open eyes angled upward leave a broad exposed lower face. B: the forehead bows over half-lidded eyes and the chin is tucked near the mouth."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "down",
+      "B": "up",
+      "reason": "A: half-lidded eyes sit low under the bangs and the face is bowed. B: eyes are open and directed higher, with the chin and lower facial plane visibly lifted; the upward cue is subtler than in vertical-5."
+    }
+  ]
+}
